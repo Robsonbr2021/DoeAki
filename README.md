@@ -3,7 +3,6 @@
 Integrantes
 Fabio Yoshiharu Suehara
 Julio Martini
-Marcelo Soares
 Mariana Moraes Costa
 Rafael Rodrigues Amaro Nunes
 Robson Aparecido Ramos
